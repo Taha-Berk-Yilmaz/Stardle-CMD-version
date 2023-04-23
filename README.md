@@ -3,4 +3,4 @@ This is the Stardle games command prompt edition.
 
 # Installation
 
-git clone 
+git clone https://github.com/Turbo-Charged-Eytron/Stardle-CMD-version.git
