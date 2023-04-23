@@ -3,3 +3,4 @@ This is the Stardle games command prompt edition.
 
 # Installation
 
+git clone 
