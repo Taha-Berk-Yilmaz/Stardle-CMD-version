@@ -9,11 +9,13 @@ python stardle.py # Starts the game
 ```
 # How To Play
 The rules are really simple.
-Red means that is wrong.
-Green means that is correct.
-Yellow means that is patially true.
+-Red means that is wrong.
+-Green means that is correct.
+-Yellow means that is patially true.
+-You have to write the guesses correct because its sensitive.
+-You have 6 guesses if you can't guess you lose.
+Note: Other characters will be added in soon.
 
-```python
 ╒══════════╤══════════╤════════════════════╤══════════╤══════════╤═══════════╤══════════╕
 │ Guess    │ Side     │ Lightsaber Color   │ Planet   │ Gender   │ Species   │ Master   │
 ╞══════════╪══════════╪════════════════════╪══════════╪══════════╪═══════════╪══════════╡
@@ -27,7 +29,7 @@ Please enter your guess here: Luke Skywalker
 ╒═════════╤════════╤════════════════════╤══════════╤══════════╤═══════════╤═══════════════════════╤═════════════╕
 │ Guess   │ Side   │ Lightsaber Color   │ Planet   │ Gender   │ Species   │ Master                │ Rank        │
 ╞═════════╪════════╪════════════════════╪══════════╪══════════╪═══════════╪═══════════════════════╪═════════════╡
-│ <code style='color: darkorange'>Luke</code>    │ Jedi   │ Blue / Green       │ Tatooine │ Male     │ Human     │ Obi Wan Kenobi / Yoda │ Jedi Knight │
+│ <code style='color: red'>Luke</code>    │ Jedi   │ Blue / Green       │ Tatooine │ Male     │ Human     │ Obi Wan Kenobi / Yoda │ Jedi Knight │
 ╘═════════╧════════╧════════════════════╧══════════╧══════════╧═══════════╧═══════════════════════╧═════════════╛
 You have 5 attempt(s) left.
 Please enter your guess here: Obi Wan Kenobi
@@ -52,4 +54,4 @@ Please enter your guess here: Master Yoda
 
 Execelent, young Padawan. You guessed right. It was Master Yoda
 Come back tomorrow and continue to your train.
-```
+
