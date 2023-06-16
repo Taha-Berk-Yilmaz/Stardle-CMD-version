@@ -11,7 +11,7 @@ python stardle.py # Starts the game
 The rules are really simple.<br>
 -___Red___ means that is wrong.<br>
 -___Green___ means that is correct.<br>
--___Yellow___ means that is patially true.<br>
+-___Yellow___ means that is partially true.<br>
 -You have to write the names correct because its sensitive.<br>
 -You have *6* guesses if you can't guess you lose.<br>
 Note: Other characters will be added in soon.
